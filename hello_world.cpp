@@ -5,6 +5,6 @@ int main(void)
     string s;
     cout<<"Enter your name: ";
     cin>>s;
-    cout<<"Hello "<<s;
+    cout<<"Hello World "<<s;
     return 0;
 }
